@@ -1,59 +1,59 @@
-[`Obviously you’re not a golfer.`,
-`Hey, nice marmot.`,
-`Careful man, there’s a beverage here!`,
-`Let me explain something to you. Um, I am not ‘Mr. Lebowski.’ You’re Mr. Lebowski. I’m the Dude, so that’s what you call me. That or, uh, His Dudeness or, uh, Duder, or El Duderino, if you’re not into the whole brevity thing.`,
-`I had a rough night and I hate the fucking Eagles, man.`,
-`The rug really tied the room together.`,
-`This aggression will not stand, man.`,
-`Hey, I know that guy, he’s a Nihilist. Karl Hungus.`,
-`Yeah, well, you know, that’s just, like, your opinion, man.`,
-`This is a very complicated case, Maude. You know, a lotta ins, a lotta outs, lotta what-have-yous.`,
-`Walter, I love you, but sooner or later, you’re going to have to face the fact you’re a goddamn moron.`,
-`You human… paraquat!`,
-`Mr. Treehorn treats objects like women, man.`,
-`She’s not my special lady, she’s my fucking lady friend. I’m just helping her conceive, man!`,
-`The Dude abides.`,
-`At least I’m housebroken.`,
-`They’re gonna kill that poor woman.`,
-`Strikes and gutters, ups and downs.`,
-`What the fuck you talkin’ about?`,
-`Your name’s Lebowski, Lebowski. Your wife is Bunny.`,
-`My… my wi-, my wife, Bunny? Do you see a wedding ring on my finger? Does this place look like I’m fucking married? The toilet seat’s up, man!`,
-`What makes a man, Mr. Lebowski?`,
-`Dude.`,
-`Uhh… I don’t know, sir.`,
-`Is it being prepared to do the right thing, whatever the cost? Isn’t that what makes a man?`,
-`What do you do for recreation?`,
-`Oh, the usual. I bowl. Drive around. The occasional acid flashback.`,
-`Does the female form make you uncomfortable, Mr. Lebowski?`,
-`Do you like sex, Mr. Lebowski?`,
-`I was talking about my rug.`,
-`You mean coitus?`,
-`Fuck it, Dude. Let’s go bowling.`,
-`Smokey, this is not ‘Nam. This is bowling. There are rules.`,
-`Shut the fuck up, Donny!`,
-`Is this your homework, Larry?`,
-`Has the whole world gone crazy? Am I the only one around here who gives a shit about the rules? You think I’m fuckin’ around, mark it zero!`,
-`Forget it, Donny, you’re out of your element!`,
-`That rug really tied the room together, did it not?`,
-`You want a toe? I can get ya a toe. Believe me, there are ways dude, you don’t even wanna know about ‘em, believe me. Hell, I can get ya a toe by three o’clock this afternoon, with nail polish.`,
-`Nihilists! Fuck me. I mean, say what you want about the tenets of National Socialism, Dude, at least it’s an ethos.`,
-`Saturday, Donny, is Shabbos, the Jewish day of rest. That means that I don’t work, I don’t drive a car, I don’t fucking ride in a car, I don’t handle money, I don’t turn on the oven, and I sure as shit don’t fucking roll!`,
-`Shomer fucking shabbos.`,
-`Donny was a good bowler and a good man. He was one of us. He was a man who loved the outdoors… and bowling, and as a surfer, he explored the beaches of Southern California, from La Jolla to Leo Carrillo and… up to… Pismo. He died, like so many young men of his generation, he died before his time.`,
-`You said it, man. Nobody fucks with the Jesus.`,
-`What’s this day of rest shit? What’s this bullshit? I don’t fuckin’ care! It don’t matter to Jesus. But you’re not foolin’ me, man. You might fool the fucks in the league office, but you don’t fool Jesus. This bush league psych-out stuff. Laughable, man — haha!`,
-`He’s a good man… and thorough.`,
-`Do you have to use so many cuss words?`,
-`Sometimes you eat the bear, and sometimes, well, he eats you.`,
-`Your revolution is over, Mr. Lebowski. Condolences. The bums lost. My advice is to do what your parents did`, get a job, sir. The bums will always lose. Do you hear me, Lebowski?`,
-`I am the walrus.`,
-`Phone’s ringing, Dude.`,
-`Ve vant ze money, Lebowski.`,
-`Yeah well, I still jerk off manually.`,
-`I’m a brother shamus!`,
-`Brother Seamus? Like an Irish monk?`,
-`And was there anything of value in the car?`,
-`Oh, uh, yeah, uh… a tape deck, some Creedence tapes, and there was a, uh… uh, my briefcase.`,
-`Uh, uh, papers, um, just papers, uh, you know, uh, my papers, business papers.`,
-`And what do you do, sir? I’m unemployed.`]
+[Obviously you’re not a golfer.|
+Hey, nice marmot.|
+Careful man, there’s a beverage here!|
+Let me explain something to you. Um, I am not ‘Mr. Lebowski.’ You’re Mr. Lebowski. I’m the Dude, so that’s what you call me. That or, uh, His Dudeness or, uh, Duder, or El Duderino, if you’re not into the whole brevity thing.|
+I had a rough night and I hate the fucking Eagles, man.|
+The rug really tied the room together.|
+This aggression will not stand, man.|
+Hey, I know that guy, he’s a Nihilist. Karl Hungus.|
+Yeah, well, you know, that’s just, like, your opinion, man.|
+This is a very complicated case, Maude. You know, a lotta ins, a lotta outs, lotta what-have-yous.|
+Walter, I love you, but sooner or later, you’re going to have to face the fact you’re a goddamn moron.|
+You human… paraquat!|
+Mr. Treehorn treats objects like women, man.|
+She’s not my special lady, she’s my fucking lady friend. I’m just helping her conceive, man!|
+The Dude abides.|
+At least I’m housebroken.|
+They’re gonna kill that poor woman.|
+Strikes and gutters, ups and downs.|
+What the fuck you talkin’ about?|
+Your name’s Lebowski, Lebowski. Your wife is Bunny.|
+My… my wi-, my wife, Bunny? Do you see a wedding ring on my finger? Does this place look like I’m fucking married? The toilet seat’s up, man!|
+What makes a man, Mr. Lebowski?|
+Dude.|
+Uhh… I don’t know, sir.|
+Is it being prepared to do the right thing, whatever the cost? Isn’t that what makes a man?|
+What do you do for recreation?|
+Oh, the usual. I bowl. Drive around. The occasional acid flashback.|
+Does the female form make you uncomfortable, Mr. Lebowski?|
+Do you like sex, Mr. Lebowski?|
+I was talking about my rug.|
+You mean coitus?|
+Fuck it, Dude. Let’s go bowling.|
+Smokey, this is not ‘Nam. This is bowling. There are rules.|
+Shut the fuck up, Donny!|
+Is this your homework, Larry?|
+Has the whole world gone crazy? Am I the only one around here who gives a shit about the rules? You think I’m fuckin’ around, mark it zero!|
+Forget it, Donny, you’re out of your element!|
+That rug really tied the room together, did it not?|
+You want a toe? I can get ya a toe. Believe me, there are ways dude, you don’t even wanna know about ‘em, believe me. Hell, I can get ya a toe by three o’clock this afternoon, with nail polish.|
+Nihilists! Fuck me. I mean, say what you want about the tenets of National Socialism, Dude, at least it’s an ethos.|
+Saturday, Donny, is Shabbos, the Jewish day of rest. That means that I don’t work, I don’t drive a car, I don’t fucking ride in a car, I don’t handle money, I don’t turn on the oven, and I sure as shit don’t fucking roll!|
+Shomer fucking shabbos.|
+Donny was a good bowler and a good man. He was one of us. He was a man who loved the outdoors… and bowling, and as a surfer, he explored the beaches of Southern California, from La Jolla to Leo Carrillo and… up to… Pismo. He died, like so many young men of his generation, he died before his time.|
+You said it, man. Nobody fucks with the Jesus.|
+What’s this day of rest shit? What’s this bullshit? I don’t fuckin’ care! It don’t matter to Jesus. But you’re not foolin’ me, man. You might fool the fucks in the league office, but you don’t fool Jesus. This bush league psych-out stuff. Laughable, man — haha!|
+He’s a good man… and thorough.|
+Do you have to use so many cuss words?|
+Sometimes you eat the bear, and sometimes, well, he eats you.|
+Your revolution is over, Mr. Lebowski. Condolences. The bums lost. My advice is to do what your parents did| get a job, sir. The bums will always lose. Do you hear me, Lebowski?|
+I am the walrus.|
+Phone’s ringing, Dude.|
+Ve vant ze money, Lebowski.|
+Yeah well, I still jerk off manually.|
+I’m a brother shamus!|
+Brother Seamus? Like an Irish monk?|
+And was there anything of value in the car?|
+Oh, uh, yeah, uh… a tape deck, some Creedence tapes, and there was a, uh… uh, my briefcase.|
+Uh, uh, papers, um, just papers, uh, you know, uh, my papers, business papers.|
+And what do you do, sir? I’m unemployed.]
