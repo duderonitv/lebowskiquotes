@@ -1,4 +1,4 @@
-[Obviously you’re not a golfer.|
+Obviously you’re not a golfer.|
 Hey, nice marmot.|
 Careful man, there’s a beverage here!|
 Let me explain something to you. Um, I am not ‘Mr. Lebowski.’ You’re Mr. Lebowski. I’m the Dude, so that’s what you call me. That or, uh, His Dudeness or, uh, Duder, or El Duderino, if you’re not into the whole brevity thing.|
@@ -56,4 +56,4 @@ Brother Seamus? Like an Irish monk?|
 And was there anything of value in the car?|
 Oh, uh, yeah, uh… a tape deck, some Creedence tapes, and there was a, uh… uh, my briefcase.|
 Uh, uh, papers, um, just papers, uh, you know, uh, my papers, business papers.|
-And what do you do, sir? I’m unemployed.]
+And what do you do, sir? I’m unemployed.
